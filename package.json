@@ -1,0 +1,17 @@
+{
+  "author": "Jeremy Bardrof <jbardrof@gmail.com>",
+  "name": "normjs",
+  "description": "ORM module for node.js",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "norm",
+  "engines": {
+    "node": ">=0.4.9"
+  },
+  "dependencies": {
+      "mysql": ">=0.9.1"
+  },
+  "devDependencies": {}
+}
